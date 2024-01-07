@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Treine Me é um projeto voltado para divulgar metodologias de ensino.
-- [Acesse o projeto finalizado, online](https://devbonatto.github.io/MoveisMoveis/)
+- [Acesse o projeto finalizado, online](https://devbonatto.github.io/Projeto02/)
 
 ## 🔖 Layout
 
